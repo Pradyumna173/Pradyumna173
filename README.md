@@ -26,5 +26,3 @@ I'm a Computer Science undergrad who takes interest in learning new technologies
 <br />
   </a>
 </div>
-
--->
