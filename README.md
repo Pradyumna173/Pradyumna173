@@ -1,7 +1,3 @@
-Hi, I'm Pradyumna Ponkshe wave
-
-I'm a Computer Science undergrad who takes interest in learning new technologies. I am passionate about Robotics, IOT, Embedded Systems, Networks Engineering & I enjoy learning new things. Along with Coding, Accounting & Credit Analysis are things that fascinates me.
-
 <h1 align="left">Hi, I'm Pradyumna Ponkshe 👋</h1> 
 
 <p align="left">
