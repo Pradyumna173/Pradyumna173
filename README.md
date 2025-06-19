@@ -3,7 +3,7 @@
 <p align="left">
 I'm a Computer Science undergrad who takes interest in learning new technologies. I am passionate about Robotics, IOT, Embedded Systems, Networks Engineering & I enjoy learning new things. Along with Coding, Accounting & Credit Analysis are things that fascinates me. </p> 
 
-- 👨‍💻  All of my projects are available [here]((https://github.com/rustyp1?tab=repositories))
+- 👨‍💻  All of my projects are available [here]((https://github.com/Pradyumna173?tab=repositories))
 
 - 📫 Reach me at  **prponkshe173@gmail.com** <br/>
 
