@@ -15,7 +15,6 @@
   
   
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/mdBook-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/mdBook-000000?style=for-the-badge&logo=mdbook&logoColor=white"/>
 
   
