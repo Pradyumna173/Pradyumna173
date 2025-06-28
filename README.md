@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Pradyumna Ponkshe </h1> 
 
-- 📫 Reach me at  **prponkshe173@gmail.com** <br/>
+- 📫 Reach me at  **github.verbally880@passinbox.com** <br/>
 
 <h3 align="left">Languages and Tools :</h3><br/>
 <p align="left"> 
